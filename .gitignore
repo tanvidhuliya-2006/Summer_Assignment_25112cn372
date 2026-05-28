@@ -1,0 +1,28 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Editor files
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Visual Studio
+*.user
+*.suo
+
+# Build directories
+build/
+
+# Ignore git itself
+.git/
